@@ -20,4 +20,4 @@ screen.jpg      | Скриншот
 ***
 
 ## Скриншот проекта
-![Скриншот](Ссылка)
+![Скриншот](https://github.com/WalkingFrozenFish/readme-template/blob/main/img/screen.jpg)
